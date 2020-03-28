@@ -20,7 +20,7 @@ module.exports = {
             'ongs.uf'
         ]);
         
-        res.header('X-Total-Pages', count['count(*)']%5);
+        res.header('X-Total-Cases', count['count(*)']);
 
         return res.json(incidents);
     },
