@@ -49,6 +49,7 @@ module.exports = {
             .select('ong_id')
             .first();
 
+
         if (typeof incident === 'undefined'){
             return res.status(400).json({error: "Incident doesn't exist" });
         }

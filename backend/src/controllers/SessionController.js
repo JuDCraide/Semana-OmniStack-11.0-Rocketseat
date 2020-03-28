@@ -10,7 +10,9 @@ module.exports = {
         .select('name')
         .first()
 
-        if (typeof incident === 'undefined'){            
+
+
+        if (typeof ong === 'undefined'){            
             return res.status(400).json({error: "ONG doesn't exist" });
         }
 
