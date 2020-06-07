@@ -10,7 +10,7 @@ Imagens Site
 
 Imagens App
 
-<img src="./assets/SplashScreenApp.jpg" height="400" alt="Splash Screen App"/>
-<img src="./assets/HomeApp.jpg" height="400" alt="Home App"/>
-<img src="./assets/EmailApp.jpg" height="400" alt="Email App"/>
-<img src="./assets/WhatappApp.jpg" height="400" alt="Whatapp App"/>
+<img src="./assets/SplashScreenApp.jpeg" height="400" alt="Splash Screen App"/>
+<img src="./assets/HomeApp.jpeg" height="400" alt="Home App"/>
+<img src="./assets/EmailApp.jpeg" height="400" alt="Email App"/>
+<img src="./assets/WhatappApp.jpeg" height="400" alt="Whatapp App"/>
